@@ -77,3 +77,4 @@ As a developer I want to build a logic to disable any users account in case of a
 <img width="1436" alt="Screenshot 2021-11-17 at 10 51 50 AM" src="https://user-images.githubusercontent.com/68191062/142483838-68f820f7-6e7d-4ace-8967-37fe45517ea0.png">
 <img width="1424" alt="Screenshot 2021-11-17 at 11 19 03 AM" src="https://user-images.githubusercontent.com/68191062/142483853-1ee59bd8-95e6-4b20-9265-1f0884650b26.png">
 <img width="1434" alt="Screenshot 2021-11-17 at 11 10 36 AM" src="https://user-images.githubusercontent.com/68191062/142483856-35fd0a82-cac0-4d50-a585-a35eff5b8ae6.png">
+<img width="1440" alt="signup" src="https://user-images.githubusercontent.com/68191062/142484258-c91a2920-8316-49a3-9f83-5950a6acea51.png">
