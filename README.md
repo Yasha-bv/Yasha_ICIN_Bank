@@ -67,3 +67,13 @@ As a developer I want to build a logic to disable any users account in case of a
 <img width="1440" alt="Screenshot 2021-11-17 at 12 09 59 AM" src="https://user-images.githubusercontent.com/68191062/142483248-0c9031d4-0535-4fba-9422-09799414a28e.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 09 39 AM" src="https://user-images.githubusercontent.com/68191062/142483255-6d97920f-4977-4d39-b021-41adc85187b4.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 08 00 AM" src="https://user-images.githubusercontent.com/68191062/142483261-4bcc65ea-e3f3-402a-8da1-d2561edcfc44.png">
+<img width="1435" alt="Screenshot 2021-11-17 at 11 10 24 AM" src="https://user-images.githubusercontent.com/68191062/142483770-f487c2fb-eae6-4d6b-a17f-1744c18658be.png">
+<img width="1440" alt="Screenshot 2021-11-17 at 10 58 40 AM" src="https://user-images.githubusercontent.com/68191062/142483785-c6d57ccf-e1d7-4579-a039-3d37322a445a.png">
+<img width="1438" alt="Screenshot 2021-11-17 at 11 08 04 AM" src="https://user-images.githubusercontent.com/68191062/142483802-cab65139-a779-4a64-8ec0-32bbf180ee9a.png">
+<img width="1438" alt="Screenshot 2021-11-17 at 10 56 25 AM" src="https://user-images.githubusercontent.com/68191062/142483808-4db351c6-be8c-4d0a-a57c-2cd117b2aa63.png">
+<img width="1440" alt="Screenshot 2021-11-17 at 10 56 06 AM" src="https://user-images.githubusercontent.com/68191062/142483818-98584731-4605-464a-81be-c457ec5f0fb7.png">
+<img width="1440" alt="Screenshot 2021-11-17 at 10 52 56 AM" src="https://user-images.githubusercontent.com/68191062/142483822-bf6ac717-3c46-45b8-b270-cc5d4a9aadbc.png">
+<img width="1440" alt="Screenshot 2021-11-17 at 10 55 30 AM" src="https://user-images.githubusercontent.com/68191062/142483834-6e198457-ce4c-4be3-8e7a-ceaac0eecbd6.png">
+<img width="1436" alt="Screenshot 2021-11-17 at 10 51 50 AM" src="https://user-images.githubusercontent.com/68191062/142483838-68f820f7-6e7d-4ace-8967-37fe45517ea0.png">
+<img width="1424" alt="Screenshot 2021-11-17 at 11 19 03 AM" src="https://user-images.githubusercontent.com/68191062/142483853-1ee59bd8-95e6-4b20-9265-1f0884650b26.png">
+<img width="1434" alt="Screenshot 2021-11-17 at 11 10 36 AM" src="https://user-images.githubusercontent.com/68191062/142483856-35fd0a82-cac0-4d50-a585-a35eff5b8ae6.png">
