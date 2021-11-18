@@ -59,6 +59,7 @@ As an admin I want to disable any users account in case of any threat.
 As a developer I want to build a logic to grant cheque book request for the user. 
 As a developer I want to build a logic to disable any users account in case of any threat. 
 
+<img width="1440" alt="signup" src="https://user-images.githubusercontent.com/68191062/142484258-c91a2920-8316-49a3-9f83-5950a6acea51.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 01 AM" src="https://user-images.githubusercontent.com/68191062/142483121-a59d6e8d-8a88-44fb-a477-16cac6c40d3c.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 42 AM" src="https://user-images.githubusercontent.com/68191062/142483206-e5341fca-b52e-492e-abb4-f709b2f1839e.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 25 AM" src="https://user-images.githubusercontent.com/68191062/142483222-48183c81-4a50-4ca6-815e-9572f319ee5a.png">
@@ -77,4 +78,4 @@ As a developer I want to build a logic to disable any users account in case of a
 <img width="1436" alt="Screenshot 2021-11-17 at 10 51 50 AM" src="https://user-images.githubusercontent.com/68191062/142483838-68f820f7-6e7d-4ace-8967-37fe45517ea0.png">
 <img width="1424" alt="Screenshot 2021-11-17 at 11 19 03 AM" src="https://user-images.githubusercontent.com/68191062/142483853-1ee59bd8-95e6-4b20-9265-1f0884650b26.png">
 <img width="1434" alt="Screenshot 2021-11-17 at 11 10 36 AM" src="https://user-images.githubusercontent.com/68191062/142483856-35fd0a82-cac0-4d50-a585-a35eff5b8ae6.png">
-<img width="1440" alt="signup" src="https://user-images.githubusercontent.com/68191062/142484258-c91a2920-8316-49a3-9f83-5950a6acea51.png">
+
