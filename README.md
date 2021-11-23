@@ -58,6 +58,7 @@ As an admin I want to disable any users account in case of any threat.
 As a developer I want to build a logic to grant cheque book request for the user. 
 As a developer I want to build a logic to disable any users account in case of any threat. 
 
+<img width="1433" alt="Screenshot 2021-11-24 at 12 46 14 AM" src="https://user-images.githubusercontent.com/68191062/143089355-52bb85b0-cc77-4867-9588-a109f510f731.png">
 <img width="1440" alt="Screenshot 2021-11-23 at 9 05 06 PM" src="https://user-images.githubusercontent.com/68191062/143059015-077e3d11-c2d7-4253-876d-169394d04980.png">
 <img width="1427" alt="Screenshot 2021-11-23 at 8 04 21 PM" src="https://user-images.githubusercontent.com/68191062/143050627-6506cd9e-f3b9-41ef-9bf7-e85d71d801f7.png">
 <img width="1438" alt="Screenshot 2021-11-24 at 12 38 01 AM" src="https://user-images.githubusercontent.com/68191062/143088343-55de557f-f716-45b1-99c4-b0c7bf94544b.png">
