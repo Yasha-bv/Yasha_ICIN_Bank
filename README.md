@@ -27,7 +27,6 @@ As a developer I want to build registration page to enter user in system.
 As a developer I want to build login page so that we can authenticate user. 
 
 Sprint 2 
-
  
 As a user I want to deposit money into my savings account. 
 As a user I want to withdraw money from my savings account. 
@@ -59,7 +58,7 @@ As an admin I want to disable any users account in case of any threat.
 As a developer I want to build a logic to grant cheque book request for the user. 
 As a developer I want to build a logic to disable any users account in case of any threat. 
 
-<img width="1440" alt="signup" src="https://user-images.githubusercontent.com/68191062/142484258-c91a2920-8316-49a3-9f83-5950a6acea51.png">
+<img width="1427" alt="Screenshot 2021-11-23 at 8 04 21 PM" src="https://user-images.githubusercontent.com/68191062/143050627-6506cd9e-f3b9-41ef-9bf7-e85d71d801f7.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 01 AM" src="https://user-images.githubusercontent.com/68191062/142483121-a59d6e8d-8a88-44fb-a477-16cac6c40d3c.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 42 AM" src="https://user-images.githubusercontent.com/68191062/142483206-e5341fca-b52e-492e-abb4-f709b2f1839e.png">
 <img width="1440" alt="Screenshot 2021-11-17 at 12 07 25 AM" src="https://user-images.githubusercontent.com/68191062/142483222-48183c81-4a50-4ca6-815e-9572f319ee5a.png">
